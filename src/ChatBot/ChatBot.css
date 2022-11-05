@@ -1,0 +1,12 @@
+.chat-bot-container {
+  position: absolute;
+  bottom: -881%;
+  left: 9%;
+  display: none;
+}
+.chat_bot_container_display {
+  position: absolute;
+  bottom: -881%;
+  left: 9%;
+  /* display: none; */
+}

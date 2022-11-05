@@ -1,0 +1,19 @@
+.btn-container img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.btn-container img:hover {
+  outline: none;
+  border-color: #268fbf;
+  box-shadow: 0 0 10px #268fbf;
+}
+
+.btn-container {
+  position: fixed;
+  top: 82%;
+  left: 4%;
+}
